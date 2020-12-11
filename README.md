@@ -15,4 +15,4 @@ Open source Hrm tool for office management
 # Final step
 
       docker exec -it <docker id> bash
-Remove install folder after completing he configuration for getting the login page.  
+Rename the 'install' folder to any name after completing the configuration for getting the login page.  
