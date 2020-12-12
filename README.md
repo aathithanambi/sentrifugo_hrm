@@ -1,18 +1,18 @@
-# sentrifugo_hrm
+# Sentrifugo Hrm
 Open source Hrm tool for office management
 
 
-# db details 
+## db details ###
       MYSQL_HOST: db
       MYSQL_ROOT_USER: root
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: sentrifugo
       
-# Code to deploy
+### Code to deploy ###
       docker-compose up -d
       Complete the configuration at localhost:8080/
       
-# Final step
+### Final step ###
 
       docker exec -it <docker id> bash
 Rename the 'install' folder to any name after completing the configuration for getting the login page.  
