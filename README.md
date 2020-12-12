@@ -1,8 +1,8 @@
-# Sentrifugo Hrm
+## Sentrifugo Hrm ##
 Open source Hrm tool for office management
 
 
-## db details ###
+### db details ###
       MYSQL_HOST: db
       MYSQL_ROOT_USER: root
       MYSQL_ROOT_PASSWORD: root
