@@ -10,7 +10,8 @@ Open source Hrm tool for office management
       
 ### Code to deploy ###
       docker-compose up -d
-      Complete the configuration at localhost:8080/
+      Complete the configuration 
+      Check for localhost:8080/
       
 ### Final step ###
 
