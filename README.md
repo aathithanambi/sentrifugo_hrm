@@ -1,5 +1,5 @@
 ## Sentrifugo Hrm ##
-Open source Hrm tool for office management
+Open source Hrm tool for office management. Mail configuration is needed to complete the configuration.
 
 
 ### db details ###
